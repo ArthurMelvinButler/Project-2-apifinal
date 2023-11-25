@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\css",
+    "\\public\\css\\vertical-layout-light",
+    "\\public\\fonts",
+    "\\public\\fonts\\Roboto",
+    "\\public\\images",
+    "\\public\\images\\sprites",
+    "\\routes",
+    "\\views"
+  ],
+  "SelectedNode": "\\routes\\login.js",
+  "PreviewInSolutionExplorer": false
+}
